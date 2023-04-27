@@ -21,6 +21,8 @@ Training&Testing_Model.ipynb
 ```
 python3 model_evaluation.py
 ```
+>**Warning** <br/>
+>sometimes github cannot view the code inside .ipynb file because there size
 
 ## Dataset
 
